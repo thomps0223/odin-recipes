@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project for TOP. I hope by the end I will be able to use the command line better and basic HTML.# odin-recipes
